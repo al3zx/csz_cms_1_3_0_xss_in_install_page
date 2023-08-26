@@ -1,9 +1,8 @@
 # CSZ CMS XSS in install page
-
-## Author: Alejandro Amorín
-
 **Software link**: CSZ CMS [https://www.cszcms.com/]
 **Version**: 1.3.0
+
+**@author**: Alejandro Amorín
 
 **Description**: CSZ CMS 1.3.0 is affected by a cross-site scripting (XSS) feature that allows attackers to execute arbitrary web scripts or HTML via a crafted payload entered in the installation page in 'Database Username' and 'Database Host' fields.
 
