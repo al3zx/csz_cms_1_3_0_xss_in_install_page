@@ -5,7 +5,7 @@
 
 **@author**: Alejandro Amorín
 
-**Description**: CSZ CMS 1.3.0 and below is affected by a Cross-site scripting (XSS) vulnerability in install/index.php that allows remote remote attackers to inject arbitrary web script or HTML via the 'Database Username' or 'Database Host' parameters.
+**Description**: CSZ CMS 1.3.0 and below is affected by a Cross-site scripting (XSS) vulnerability in install/index.php that allows remote attackers to inject arbitrary web script or HTML via the 'Database Username' or 'Database Host' parameters.
 
 ## POC
 
