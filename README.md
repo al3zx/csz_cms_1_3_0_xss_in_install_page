@@ -4,7 +4,7 @@
 
 **@author**: Alejandro Amorín
 
-**Description**: CSZ CMS 1.3.0 is affected by a cross-site scripting (XSS) feature that allows attackers to execute arbitrary web scripts or HTML via a crafted payload entered in the installation page in 'Database Username' and 'Database Host' fields.
+**Description**: CSZ CMS 1.3.0 is affected by a Cross-site scripting (XSS) vulnerability in install/index.php and below that allows remote remote attackers to inject arbitrary web script or HTML via the 'Database Username' or 'Database Host' parameters.
 
 ## POC
 
