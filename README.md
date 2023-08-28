@@ -11,10 +11,10 @@
 
 When performing the installation and selecting the database to install the appliance, the 'Database Username' and the 'Database Host' fields are affected by the injection of arbitrary code:
 
-![xss1](https://github.com/al3zx/csz_cms_1_3_0_xss_in_install_page/assets/20266218/ebe056f7-5bc9-4d10-96a6-3e1a930d3d42)
+![xss1](https://github.com/al3zx/csz_cms_1_3_0_xss_in_install_page/assets/20266218/eda959a1-88ed-43a5-a766-622e38d92377)
 
-![xss2](https://github.com/al3zx/csz_cms_1_3_0_xss_in_install_page/assets/20266218/acf57ff8-4394-4101-ae88-2a26d711d89c)
+![xss2](https://github.com/al3zx/csz_cms_1_3_0_xss_in_install_page/assets/20266218/2d537363-34a4-4208-8063-c591fb84fc7b)
 
-![xss3](https://github.com/al3zx/csz_cms_1_3_0_xss_in_install_page/assets/20266218/49bfc80a-1296-4ef0-a346-33c123781a0e)
+![xss3](https://github.com/al3zx/csz_cms_1_3_0_xss_in_install_page/assets/20266218/95a3286d-7816-4291-9163-fd02d23dc38e)
 
-![xss4](https://github.com/al3zx/csz_cms_1_3_0_xss_in_install_page/assets/20266218/44d5e52a-fadc-4d00-b04a-10f6bea62bbd)
+![xss4](https://github.com/al3zx/csz_cms_1_3_0_xss_in_install_page/assets/20266218/553f4697-086a-4532-83ed-0dfbe132aa82)
