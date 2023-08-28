@@ -1,5 +1,6 @@
 # CSZ CMS XSS in install page
 **Software link**: CSZ CMS [https://www.cszcms.com/]
+
 **Version**: 1.3.0
 
 **@author**: Alejandro Amorín
